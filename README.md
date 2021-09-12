@@ -20,5 +20,9 @@ Then open http://localhost:8000 to see your app.
 
 * api/organisation is to register an organisation(e.g welltory).
 
+---
+
+Most of the work will be done on frontend which and how an API is called. This(api/organisation) endpoint will give access to the  frontend about the organisation and what parameters they have predefined for their API
+
 
 
